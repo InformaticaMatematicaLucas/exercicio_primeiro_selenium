@@ -91,12 +91,3 @@ PARTE 2: CASO DE USO 1 - Register User (Fluxo Completo)
    confirmação ("ACCOUNT CREATED!" e "Logged in as") processam e exibem corretamente
    as informações gravadas antes de deletar a conta ao final da execução.
 
-# Repositório com os exemplos usados na aula sobre Selenium
-
-Sequência das branches
-
-1. aula_google
-2. testa_busca
-3. testa_usuario
-4. testa_usuario_po
-
